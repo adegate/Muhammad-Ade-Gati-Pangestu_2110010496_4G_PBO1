@@ -4,7 +4,7 @@ Proyek ini adalah contoh sederhana aplikasi pengolahan data mahasiswa menggunaka
 
 ## Deskripsi
 
-Aplikasi ini menerima input berupa nama dan NPM mahasiswa, dan memberikan output berupa informasi detail dari NPM tersebut seperti tahun masuk, fakultas, program studi, dan nomor registrasi.
+Aplikasi ini menerima input berupa nama mobil dan tahun mobil untuk mengetahui kisaran harga mobil pada showrom mobil tersebut.
 
 Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, Perulangan, IO Sederhana, dan Array.
 
